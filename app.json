@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Desafio Calculo Mental",
+    "slug": "desafio-calculo-mental",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true
+    }
+  }
+}
